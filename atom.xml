@@ -6,15 +6,36 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ffysbz.github.io/"/>
-  <updated>2018-06-14T13:36:59.646Z</updated>
+  <updated>2018-06-15T13:33:08.296Z</updated>
   <id>https://ffysbz.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Benz</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Passage one</title>
+    <link href="https://ffysbz.github.io/2018/06/15/Passage-one/"/>
+    <id>https://ffysbz.github.io/2018/06/15/Passage-one/</id>
+    <published>2018-06-15T13:31:25.000Z</published>
+    <updated>2018-06-15T13:33:08.296Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="hhh"><a href="#hhh" class="headerlink" title="hhh"></a>hhh</h4><h4 id="嘿嘿嘿"><a href="#嘿嘿嘿" class="headerlink" title="嘿嘿嘿"></a>嘿嘿嘿</h4>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;hhh&quot;&gt;&lt;a href=&quot;#hhh&quot; class=&quot;headerlink&quot; title=&quot;hhh&quot;&gt;&lt;/a&gt;hhh&lt;/h4&gt;&lt;h4 id=&quot;嘿嘿嘿&quot;&gt;&lt;a href=&quot;#嘿嘿嘿&quot; class=&quot;headerlink&quot; title=&quot;嘿嘿嘿&quot;&gt;&lt;/a&gt;嘿嘿嘿&lt;/h
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
