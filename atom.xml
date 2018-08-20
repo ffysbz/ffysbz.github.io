@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Benz</title>
+  <title>suben</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://www.ffysbz.cn/"/>
+  <link href="https://ffysbz.github.io/"/>
   <updated>2018-06-19T14:09:19.112Z</updated>
-  <id>https://www.ffysbz.cn/</id>
+  <id>https://ffysbz.github.io/</id>
   
   <author>
-    <name>Benz</name>
+    <name>suben</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Passage two</title>
-    <link href="https://www.ffysbz.cn/2018/06/19/Passage-two/"/>
-    <id>https://www.ffysbz.cn/2018/06/19/Passage-two/</id>
+    <link href="https://ffysbz.github.io/2018/06/19/Passage-two/"/>
+    <id>https://ffysbz.github.io/2018/06/19/Passage-two/</id>
     <published>2018-06-19T13:48:55.000Z</published>
     <updated>2018-06-19T14:09:19.112Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>java konwledge</title>
-    <link href="https://www.ffysbz.cn/2018/06/16/java-konwledge/"/>
-    <id>https://www.ffysbz.cn/2018/06/16/java-konwledge/</id>
+    <link href="https://ffysbz.github.io/2018/06/16/java-konwledge/"/>
+    <id>https://ffysbz.github.io/2018/06/16/java-konwledge/</id>
     <published>2018-06-16T12:45:45.000Z</published>
     <updated>2018-06-16T14:05:39.409Z</updated>
     
@@ -61,8 +61,8 @@
   
   <entry>
     <title>Passage one</title>
-    <link href="https://www.ffysbz.cn/2018/06/15/Passage-one/"/>
-    <id>https://www.ffysbz.cn/2018/06/15/Passage-one/</id>
+    <link href="https://ffysbz.github.io/2018/06/15/Passage-one/"/>
+    <id>https://ffysbz.github.io/2018/06/15/Passage-one/</id>
     <published>2018-06-15T13:31:25.000Z</published>
     <updated>2018-06-19T13:40:54.427Z</updated>
     
@@ -82,8 +82,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.ffysbz.cn/2018/06/14/hello-world/"/>
-    <id>https://www.ffysbz.cn/2018/06/14/hello-world/</id>
+    <link href="https://ffysbz.github.io/2018/06/14/hello-world/"/>
+    <id>https://ffysbz.github.io/2018/06/14/hello-world/</id>
     <published>2018-06-14T13:36:59.646Z</published>
     <updated>2018-06-14T13:36:59.646Z</updated>
     
